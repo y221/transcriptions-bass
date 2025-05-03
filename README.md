@@ -1,2 +1,29 @@
-# transcriptions-bass
-transcriptions for bass
+## ベース譜集
+
+このリポジトリでは、ベースプレイヤー向けの耳コピ譜面（主にJAZZ）を楽曲ごとに整理して公開しています。  
+いずれも実演奏に基づいて手作業で採譜したもので、練習や分析に役立てることを目的としています。
+
+## 注意事項
+
+- 採譜はすべて手作業による耳コピのため、正確性に欠ける箇所や間違いが含まれている可能性があります。
+- ご自身で確認・修正しながらご活用ください。
+- 原曲や演奏者の権利を尊重し、転載・再配布はご遠慮ください。
+
+## ディレクトリ構成
+
+```
+music
+└── 曲名
+    └── アルバム名 or Youtubeチャンネル
+        └── 譜面
+```
+
+## 閲覧方法
+
+各譜面ディレクトリにある `README.md` を開くと、対応するSVG譜面が画像として表示されます。  
+GitHub上でブラウザから直接閲覧できます。
+
+## おすすめ機能：自動スクロール
+
+演奏しながら譜面を見るときは、Chrome拡張の**AutoScroll**が便利です。
+[Simple AutoScroll – Chrome ウェブストア](https://chromewebstore.google.com/detail/simple-autoscroll/fgecljolecpahpphjjhfhgiimljpkodo?hl=ja)
